@@ -1,0 +1,6 @@
+{
+  "name": "Red Code Systems Solutions",
+  "description": "A high-end, 3D interactive website for Red Code Systems Solutions, building integrated business systems with technology and management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
